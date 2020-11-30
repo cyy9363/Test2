@@ -5,3 +5,4 @@ y=seq(100,1000, len=5)
 # add lines
 
 plot(x.y)
+summary(x)
